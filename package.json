@@ -1,0 +1,19 @@
+{
+  "name": "construct",
+  "version": "1.0.0",
+  "description": "A quick and easy way to create Frontend layouts with HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StompRocket/construct.git"
+  },
+  "author": "swissChili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StompRocket/construct/issues"
+  },
+  "homepage": "https://github.com/StompRocket/construct#readme"
+}
